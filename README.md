@@ -1,7 +1,7 @@
 # Skate-Community
 Projeto de uma comunidade voltada a grupo de SK8
 
-##https://wellcod.github.io/Skate-Community/picos.html
+## https://wellcod.github.io/Skate-Community/picos.html
 
 [screen-capture.webm](https://user-images.githubusercontent.com/7384901/205412853-af42f411-1dc9-45f3-90fa-488032e3f237.webm)
 
